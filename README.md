@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is the beggining of a wrapper around the NBA stats API_
+_This is the beggining of a wrapper around the NBA stats API. Currently only has a team query._
 
 ## Setup
 
@@ -27,7 +27,7 @@ $ npm install
 $ node server.js
 ```
 * _Visit localhost:4000/graphql in your browser_
-* _Here is a sample query:_
+* _Here is a sample query (this will return all available fields):_
 ```
 {
   team(id: 1610612757, season: "2017-18", seasonType: "Regular Season")
