@@ -152,13 +152,3 @@ module.exports = new GraphQLSchema({
     })
   })
 })
-
-// http://stats.nba.com/stats/teaminfocommon?teamid=1610612757&leagueid=00&seasonType=Regular Season&season=2017-18
-
-// const x = fetch(
-//   'http://stats.nba.com/stats/teaminfocommon?teamid=1610612757&leagueid=00&seasonType=Regular Season&season=2017-18', {headers: headers}
-// )
-// .then(response => response.json())
-// .then(response => response.resultSets[1].rowSet[0][0])
-
-// x
