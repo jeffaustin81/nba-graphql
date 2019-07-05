@@ -73,7 +73,7 @@ _Node, Express, Express-GraphQL, GraphQL_
 
 ### Legal
 
-Copyright (c) 2017 **_Jeff Austin_**
+Copyright (c) 2017 - present **_Jeff Austin_**
 
 This software is licensed under the MIT license.
 
